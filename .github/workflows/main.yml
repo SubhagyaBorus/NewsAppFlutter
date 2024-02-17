@@ -3,7 +3,7 @@ on:
     branches:
       - master
 
-name: Build My App
+name: news_app
 
 jobs:
   build:
